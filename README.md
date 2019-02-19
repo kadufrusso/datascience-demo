@@ -1,5 +1,5 @@
 # datascience-demo
-learning Python
+learning Python and Jupyter
 
 ## Contact
 

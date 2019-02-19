@@ -1,5 +1,5 @@
 # datascience-demo
-learning Python and Jupyter
+learning Python and Jupyter with Wander.
 
 ## Contact
 

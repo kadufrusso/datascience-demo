@@ -1,4 +1,6 @@
 # datascience-demo
 learning Python
 
-## Cadu
+## Contact
+
+- carlos.russo@transferoswiss.ch
